@@ -1,0 +1,19 @@
+{
+    "name": "VectorMath",
+    "version": "1.0.0",
+    "description": "A simple 3D vector library intended for flight computer applications.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rose-Rocketry/VectorMath.git"
+    },
+    "authors": {
+        "name": "Ben Graham",
+        "url": "lithosphererocketry.github.io"
+    },
+    "license": "MIT",
+    "dependencies": {
+        
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
